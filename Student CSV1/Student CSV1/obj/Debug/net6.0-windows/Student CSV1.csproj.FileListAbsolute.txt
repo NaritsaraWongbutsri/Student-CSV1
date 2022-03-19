@@ -1,0 +1,17 @@
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\bin\Debug\net6.0-windows\Student CSV1.exe
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\bin\Debug\net6.0-windows\Student CSV1.deps.json
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\bin\Debug\net6.0-windows\Student CSV1.runtimeconfig.json
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\bin\Debug\net6.0-windows\Student CSV1.dll
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\bin\Debug\net6.0-windows\Student CSV1.pdb
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.csproj.AssemblyReference.cache
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student_CSV1.Form1.resources
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.csproj.GenerateResource.cache
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.AssemblyInfoInputs.cache
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.AssemblyInfo.cs
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.csproj.CoreCompileInputs.cache
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.dll
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\refint\Student CSV1.dll
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.pdb
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\Student CSV1.genruntimeconfig.cache
+C:\Users\TR\Documents\GitHub\Student-CSV1\Student CSV1\Student CSV1\obj\Debug\net6.0-windows\ref\Student CSV1.dll
